@@ -1,0 +1,8 @@
+# Validated with the versions in parentheses; the floors below are safe and widely available.
+numpy>=1.24          # (tested: 2.4.4)
+pandas>=1.5          # (tested: 3.0.2)
+matplotlib>=3.6      # (tested: 3.10.8)
+seaborn>=0.12        # (tested: 0.13.2)
+scikit-learn>=1.2    # (tested: 1.8.0)
+xgboost>=1.7         # (tested: 3.2.0)
+notebook>=6.5        # to run the .ipynb (or use jupyterlab)
